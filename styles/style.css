@@ -1,0 +1,38 @@
+/*Estilos para index.html*/
+.Fondo1{
+    margin:0;
+    padding:0;
+    text-align:center;
+    background: #DCD7C9;
+
+}
+
+.Gorosito{
+    margin:auto;
+    padding:20px;
+    border-radius:50px;
+}
+
+.Boton{
+    border:1px solid #000000;
+    padding:10px;
+    background-color: #2C3639;
+    color:#ffffff;
+    text-decoration: none;
+    font-family:"Lucida Console", "Courier New", monospace;
+    border-radius: 50px;
+}
+
+.Titulo1{
+    background-color: #2C3639;
+    padding: 10px;
+    margin: 0;
+    color: #ffffff;
+    font-family:"Lucida Console", "Courier New", monospace;
+}
+
+.Boton:hover{
+    background-color: #A27B5C;
+}
+
+

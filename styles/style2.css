@@ -1,0 +1,40 @@
+/*Estilos para about.html*/
+body {
+    font-family:"Lucida Console", "Courier New", monospace;
+    background-color: #DCD7C9;
+    margin: 0;
+    padding: 0; 
+}
+
+.Titulo2 {
+    color:#2C3639;
+    text-align: center;
+    padding: 50px;
+}
+
+.cuerpo {
+    margin: auto;
+    text-align: center;
+    color:#000000;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2C3639;
+}
+
+li{
+    float:left;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 55px;
+    text-decoration: none;
+}
+
+li:hover{
+    background-color: #A27B5C;
+}

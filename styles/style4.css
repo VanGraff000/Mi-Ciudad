@@ -1,0 +1,39 @@
+/*Estilos para visits_activities.html*/
+body {
+    font-family:"Lucida Console", "Courier New", monospace;
+    background-color:#DCD7C9;
+    margin:0;
+    padding:0;
+}
+
+.navegacion {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2C3639;
+}
+
+.item:hover{
+    background-color: #A27B5C;
+}
+
+.item{
+    float:left;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 56px;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: #2C3639;
+    padding:20px ;
+}
+
+.lista {
+    margin-left: 550px;
+    color:#000000;
+}

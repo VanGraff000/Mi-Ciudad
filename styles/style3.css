@@ -1,0 +1,78 @@
+/*Estilos para accomodation.html*/
+body {
+    font-family:"Lucida Console", "Courier New", monospace;
+    background-color:#DCD7C9;
+    margin: 0;
+    padding: 0; 
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2C3639;
+}
+
+li{
+    float:left;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 55px;
+    text-decoration: none;
+}
+
+li:hover{
+    background-color: #A27B5C;
+}
+
+table,tr,th,td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.Patagonia{
+    text-decoration: none;
+    color:#ffffff;
+}
+
+.td1:hover{
+    background-color:#A27B5C ;
+}
+
+.Robert {
+    text-decoration: none;
+    color:#ffffff;
+}
+
+.td2:hover{
+    background-color: #A27B5C;
+}
+
+.Capri {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.td3:hover{
+    background-color: #A27B5C;
+}
+
+caption {
+    padding-bottom: 50px;
+    font-size: 40px;
+    color:#2C3639;
+}
+
+td {
+    background: #3F4E4F;
+}
+
+th {
+    background:  #3F4E4F;
+    color:#ffffff;
+}

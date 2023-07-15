@@ -1,0 +1,181 @@
+/*Estilos para entertaiment.html, casino.html, cine.html y actividadesNauticas.html*/
+body {
+    font-family:"Lucida Console", "Courier New", monospace;
+    background-color:#DCD7C9;
+    margin:0;
+    padding:0;
+}
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2C3639;
+}
+
+.i{
+    float:left;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 55px;
+    text-decoration: none;
+}
+
+.i:hover{
+    background-color: #A27B5C;
+}
+
+.Cas {
+    border-radius: 50px;
+    padding-top: 25px;
+}
+
+.Cin{
+    border-radius: 50px;
+}
+
+.Nau {
+    border-radius: 50px;
+}
+
+.ACT {
+    text-align: center;
+}
+
+/*Casino.html*/
+
+.Regresar1 {
+    border:1px solid #000000;
+    padding:10px;
+    background-color: #2C3639;
+    color:#ffffff;
+    text-decoration: none;
+    font-family:"Lucida Console", "Courier New", monospace;
+    border-radius: 50px;
+}
+
+.Regresar1:hover{
+    background-color: #A27B5C;
+}
+
+.Fondo2 {
+    margin:auto;
+    text-align: center;
+    background-color:#DCD7C9;
+}
+
+.Club{
+    width:800px;
+    height:450;
+    border-radius: 50px;
+}
+
+.map1{
+    border-radius: 50px;
+}
+
+.CB {
+    color:#2C3639;
+}
+
+p {
+    color:#000000;
+}
+
+.j{
+    list-style-type: none;
+    color:#000000;
+}
+
+/*Cine.html*/
+
+.Fondo3 {
+    margin: auto;
+    text-align: center;
+    background-color:#DCD7C9;
+}
+
+.R {
+    border:1px solid #000000;
+    padding:10px;
+    background-color: #2C3639;
+    color:#ffffff;
+    text-decoration: none;
+    font-family:"Lucida Console", "Courier New", monospace;
+    border-radius: 50px;
+}
+
+.R:hover{
+    background-color: #A27B5C;
+}
+
+.R2 {
+    border:1px solid #000000;
+    padding:10px;
+    background-color: #2C3639;
+    color:#ffffff;
+    text-decoration: none;
+    font-family:"Lucida Console", "Courier New", monospace;
+    border-radius: 50px;
+}
+
+.R2:hover{
+    background-color: #A27B5C;
+}
+
+.Mech{
+    height:450;
+    border-radius: 50px;
+}
+
+.map2 {
+    border-radius:50px;
+}
+
+.C{
+    color:#2C3639;
+}
+
+/*actividadesNauticas.html*/
+
+.Fondo4 {
+    margin:auto;
+    text-align: center;
+    background-color: #DCD7C9;
+}
+
+.Reg {
+    border:1px solid #000000;
+    padding:10px;
+    background-color: #2C3639;
+    color:#ffffff;
+    text-decoration: none;
+    font-family:"Lucida Console", "Courier New", monospace;
+    border-radius: 50px;
+}
+
+.Reg:hover{
+    background-color: #A27B5C;
+}
+
+.AN {
+    width:800px;
+    height:450px;
+    border-radius:50px;
+}
+
+.MP {
+    padding-inline: 10px;
+    border-radius: 50px;
+}
+
+.Nac {
+    color:#2C3639;
+}
+
+.M {
+    list-style-type: none;
+    color:#000000;
+}
